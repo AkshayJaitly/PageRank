@@ -1,4 +1,3 @@
-# README #
 # Google pagerank #
 ## CODE COMPILATION(PageRank)
 
