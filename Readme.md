@@ -1,4 +1,5 @@
 # Google pagerank #
+This is a Google pagerank implementation in Java
 ## CODE COMPILATION(PageRank)
 
 $javac pgrk7767.java
